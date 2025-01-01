@@ -1,1 +1,1 @@
-print("Hello Virendra")
+printf("Hello Virendra")
